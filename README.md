@@ -1,6 +1,9 @@
 # Yamb
 
-This repository contains a Python script for implementing the classic dice game "Yamb". The script was developed as the first homework assignment for the "Algorithms and Data Structures" course at the School of Electrical Engineering, University of Belgrade, majoring in Software Engineering.
+This repository contains a Python script for implementing the classic dice game "Yamb". 
+> One of my goals was to experiment with various random number generators such as the Linear Congruential Generator, Blum Blum Shub, and Lagged Fibonacci Generator. Among these options, I was assigned to use Blum Blum Shub generator.
+> 
+> The script was developed as the first homework assignment for the "Algorithms and Data Structures" course at the School of Electrical Engineering, University of Belgrade, majoring in Software Engineering.
 
 ## Features
 
